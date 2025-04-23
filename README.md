@@ -32,6 +32,7 @@ For each shape in the list displayed:
 This will demonstrate how abstraction and polymorphism allow treating different shapes through the same abstract interface.
 
 5. Screenshot of the output
+![output](https://github.com/user-attachments/assets/ec08ea1b-f588-4274-89e4-592df18bc428)
 
 
 6. How to run the code?
